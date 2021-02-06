@@ -805,3 +805,7 @@ http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/210912.m3u8
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208667.m3u8
 #EXTINF:-1,FR: Africa 24
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88552.m3u8
+#EXTINF:-1,FR:National-Geographic-HD
+http://kiptv3.ddns.net:8000/live/ulysse/ulysse/137.ts
+#EXTINF:-1,FR:NatGeo-Wild-HD
+http://kiptv3.ddns.net:8000/live/ulysse/ulysse/138.ts
